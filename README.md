@@ -135,6 +135,7 @@ Site de catálogo para loja de joias do Instagram, com vitrine de produtos e ped
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 🟢 **Projeto entregue**
+🔗 [**usebrabastore.com.br**](https://casantosacessorios.com.br/)
 
 </td>
 
