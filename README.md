@@ -118,8 +118,12 @@ Catálogo online com carrinho, variações de cor, seletor de tamanhos e checkou
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
+🟢 **Projeto entregue**
+<br>
 🔗 [**usebrabastore.com.br**](https://usebrabastore.com.br)
+<br/>
 
 </td>
 
@@ -132,6 +136,7 @@ Site de catálogo para loja de joias do Instagram, com vitrine de produtos e ped
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 🟢 **Projeto entregue**
@@ -172,10 +177,10 @@ Novo site para a loja do Instagram **@use.sshinestore**, seguindo o mesmo modelo
 enzo@jarvis:~$ cat objetivos.log
 
 [✔] Publicar sites reais para clientes (Braba Store, Cá Santos)
-[▶] Finalizar o site da S Shine Store ........................ 70%
-[▶] Aprofundar PHP + MySQL em aplicações completas ........... 55%
-[▶] Dominar C# e conceitos de POO ............................ 40%
-[▶] Estudar Git a fundo, cloud e DevOps ...................... 30%
+[▶] Desenvolver exercícios e projetos ........................ 60%
+[▶] Aprofundar PHP + MySQL em aplicações completas ........... 45%
+[▶] Dominar C# e conceitos de POO ............................ 30%
+[▶] Estudar Git a fundo, cloud e DevOps ...................... 20%
 [○] Construir um portfólio de projetos open source
 [○] Conquistar a primeira vaga como desenvolvedor
 
@@ -234,10 +239,10 @@ enzo@jarvis:~$ █
 <div align="center">
 
 <a href="https://github.com/alves-dev1"><img src="https://img.shields.io/badge/GitHub-alves--dev1-181717?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0a0f24" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f24" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0f24" alt="Instagram"/></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-Contato-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f24" alt="Email"/></a>
-<a href="https://wa.me/55SEUNUMERO"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0f24" alt="WhatsApp"/></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/enzo-alves-de-moura-578600276/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f24" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/enzoalvxs/"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0f24" alt="Instagram"/></a>
+<a href="mailto:eam.dev4@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-ff2bd6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0f24" alt="Email"/></a>
+<a href="https://wa.me/5519999537807"><img src="https://img.shields.io/badge/WhatsApp-Chamar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0a0f24" alt="WhatsApp"/></a>
 
 </div>
 
