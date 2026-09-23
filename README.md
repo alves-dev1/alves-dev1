@@ -138,7 +138,7 @@ Site de catálogo para loja de joias do Instagram, com vitrine de produtos e ped
 
 </td>
 
-<td width="33%" valign="top">
+<!-- <td width="33%" valign="top">
 
 ### ✨ S Shine Store
 <sub>`E-COMMERCE · EM DESENVOLVIMENTO`</sub>
@@ -151,7 +151,7 @@ Novo site para a loja do Instagram **@use.sshinestore**, seguindo o mesmo modelo
 
 🛠️ **Compilando...**
 
-</td>
+</td> -->
 
 </tr>
 </table>
