@@ -195,8 +195,8 @@ enzo@jarvis:~$ █
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=alves-dev1&show_icons=true&hide_border=true&bg_color=0a0f24&title_color=00f0ff&icon_color=ff2bd6&text_color=c9d7ff&ring_color=7c5cff&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-dev1&layout=compact&hide_border=true&bg_color=0a0f24&title_color=00f0ff&text_color=c9d7ff&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=alves-dev1&show_icons=true&hide_border=true&bg_color=0a0f24&title_color=00f0ff&icon_color=ff2bd6&text_color=c9d7ff&ring_color=7c5cff&rank_icon=github&cache_seconds=86400&v=2" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alves-dev1&layout=compact&hide_border=true&bg_color=0a0f24&title_color=00f0ff&text_color=c9d7ff&langs_count=8&cache_seconds=86400&v=2" alt="Top Languages" />
 
 <br/>
 
@@ -204,7 +204,7 @@ enzo@jarvis:~$ █
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alves-dev1&bg_color=0a0f24&color=00f0ff&line=7c5cff&point=ff2bd6&area=true&area_color=7c5cff&hide_border=true&title_color=00f0ff&custom_title=Gr%C3%A1fico%20de%20Atividade" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alves-dev1&bg_color=0a0f24&color=00f0ff&line=7c5cff&point=ff2bd6&area=true&area_color=7c5cff&hide_border=true&title_color=00f0ff&custom_title=Gr%C3%A1fico%20de%20Atividade&v=2" alt="Activity Graph" width="100%" />
 
 </div>
 
@@ -214,7 +214,7 @@ enzo@jarvis:~$ █
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=alves-dev1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=alves-dev1&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=7&v=2" alt="GitHub Trophies" />
 
 </div>
 
